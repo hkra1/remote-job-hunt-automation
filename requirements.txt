@@ -1,7 +1,10 @@
-openai
+openai>=1.0.0
 python-dotenv
 pandas
 requests
 beautifulsoup4
 playwright
-# Add more as needed (langchain, etc.)
+python-docx
+PyPDF2
+langchain-openai
+# playwright install

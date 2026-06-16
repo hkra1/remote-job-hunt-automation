@@ -1,0 +1,7 @@
+openai
+python-dotenv
+pandas
+requests
+beautifulsoup4
+playwright
+# Add more as needed (langchain, etc.)
